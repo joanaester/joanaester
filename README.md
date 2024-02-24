@@ -43,13 +43,13 @@
 
 ## 🌐 Connect with me
 <div align="left">
-<a href="https://github.com/juliaansh" target="_blank">
+<a href="https://github.com/joanaester" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/jlxmndz/" target="_blank">
+<a href="https://www.facebook.com/jnstrrys" target="_blank">
 <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/jl.mndz/" target="_blank">
+<a href="https://www.instagram.com/joanaester_/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
